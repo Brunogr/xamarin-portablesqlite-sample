@@ -3,6 +3,9 @@ An sample of how to create a sqlite repository for Xamarin.Android, Xamarin.iOS 
 Includes Insert, Delete and Get samples.
 
 # Xamarin.Android
+
+<img src="/images/android-print.jpeg?raw=true" width="220">
+
 Xamarin.Android project is already complete and working.
 
 Includes samples of Android Support Design Library like:
